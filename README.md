@@ -15,8 +15,17 @@ This project analyzes vendor and sales data to uncover trends, performance gaps,
 - Evaluate inventory and cost efficiency  
 - Present insights via an interactive dashboard  
 
----
+<h2>📸 Workflow Diagram</h2>
 
+<img src="Project Workflow.png" alt="Workflow Diagram" width="70%">
+
+<hr>
+---
+<h2>📸 Flow chart Preview</h2>
+
+<img src="Detailed Flowchart.png" alt="Flow Chart" width="60%">
+
+<hr>
 ## 🔗 Quick Links
 
 - 📖 **Notebook (GitHub / Colab)**  
@@ -28,6 +37,9 @@ This project analyzes vendor and sales data to uncover trends, performance gaps,
 - 📓 **Kaggle Notebook**  
   👉 [Open Kaggle Notebook](https://www.kaggle.com/code/haseebzai30/vendor-data-analytics-project)
 
+- 📓 **Kaggle Notebook**  
+  👉 [Open Kaggle Notebook](https://www.kaggle.com/code/haseebzai30/vendor-data-analytics-project)
+  
 - 📊 **Final Power BI Dashboard**  
   🔗 Dashboard Link (Coming Soon)
 
@@ -104,7 +116,7 @@ git clone https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Proj
 
 <h2>📸 Final Dashboard Preview</h2>
 
-<img src="dashboard.png" alt="Final Power BI Dashboard" width="100%">
+<img src="dashboard.PNG" alt="Final Power BI Dashboard" width="90%">
 
 <hr>
 
@@ -132,6 +144,11 @@ git clone https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Proj
 
 <p><strong>Muhammad Haseeb</strong></p>
 
+- 📥 **Portfolio**
+  👉 [Portfolio](https://haseeb-zai30.github.io/portfolio/)
+  
+- 📥 **Linkedln**
+  👉 [Linkedl](https://www.linkedin.com/in/muhammad-haseeb-01a121344/)
 <hr>
 
 </body>
