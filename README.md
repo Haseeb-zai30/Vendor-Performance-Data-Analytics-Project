@@ -38,7 +38,7 @@ This project analyzes vendor and sales data to uncover trends, performance gaps,
   👉 [Open Kaggle Notebook](https://www.kaggle.com/code/haseebzai30/vendor-data-analytics-project)
 
 - 📓 **Documentation**  
-  👉 [Open Document](https://www.kaggle.com/code/haseebzai30/vendor-data-analytics-project)
+  👉 [Open Document](https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Project/blob/main/vendor_data_analytics_project.pdf)
   
 - 📊 **Final Power BI Dashboard**  
   🔗 Dashboard Link (Coming Soon)
