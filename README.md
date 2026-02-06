@@ -1,67 +1,50 @@
+# 📊 Vendor Performance Data Analytics Project
 
-
-<h1>📊 Vendor Performance Data Analytics Project</h1>
-
-<p>
-A comprehensive end-to-end data analytics project focused on evaluating vendor performance using
-<strong>Python</strong> for analysis and <strong>Power BI</strong> for visualization.  
+A comprehensive end-to-end data analytics project focused on evaluating vendor performance using **Python** for analysis and **Power BI** for visualization.  
 This project transforms raw transactional data into actionable business insights.
-</p>
 
-<hr>
+---
 
-<h2>🚀 Project Overview</h2>
+## 🚀 Project Overview
 
-<p>
-Effective vendor management is critical for profitability and operational efficiency.
-This project aims to analyze vendor and sales data to uncover trends, performance gaps,
-and optimization opportunities.
-</p>
+Effective vendor management is critical for profitability and operational efficiency.  
+This project analyzes vendor and sales data to uncover trends, performance gaps, and optimization opportunities.
 
-<ul>
-    <li>Identify top and underperforming vendors</li>
-    <li>Analyze sales, pricing, and order trends</li>
-    <li>Evaluate inventory and cost efficiency</li>
-    <li>Present insights via an interactive dashboard</li>
-</ul>
+- Identify top and underperforming vendors  
+- Analyze sales, pricing, and order trends  
+- Evaluate inventory and cost efficiency  
+- Present insights via an interactive dashboard  
 
-<hr>
+---
 
-<h2>🔗 Quick Links</h2>
+## 🔗 Quick Links
 
-<ul>
-    <li>📖 <strong>Google Colab Notebook:</strong>
-        <a href="#" target="_blank">]https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Project/blob/main/Vendor_performance_Analysis.ipynb</a>
-    </li>
-    <li>📥 <strong>Kaggle Dataset:</strong>
-        <a href="#" target="_blank">https://www.kaggle.com/datasets/haseebzai30/vendors-data/data</a>
-    </li>
-  <li>📥 <strong>Kaggle Notobook:</strong>
-        <a href="#" target="_blank">https://www.kaggle.com/datasets/haseebzai30/vendors-data/data](https://www.kaggle.com/code/haseebzai30/vendor-data-analytics-project</a>
-    </li>
-    <li>📊 <strong>Final Dashboard (Power BI / Online):</strong>
-        <a href="#" target="_blank">Add Dashboard Link Here</a>
-    </li>
-    <li>📁 <strong>GitHub Repository:</strong>
-        <a href="https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Project" target="_blank">
-            Vendor Performance Data Analytics Project
-        </a>
-    </li>
-</ul>
+- 📖 **Notebook (GitHub / Colab)**  
+  👉 [Open Analysis Notebook](https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Project/blob/main/Vendor_performance_Analysis.ipynb)
 
-<hr>
+- 📥 **Kaggle Dataset**  
+  👉 [View Dataset on Kaggle](https://www.kaggle.com/datasets/haseebzai30/vendors-data/data)
 
-<h2>🧠 Key Features</h2>
+- 📓 **Kaggle Notebook**  
+  👉 [Open Kaggle Notebook](https://www.kaggle.com/code/haseebzai30/vendor-data-analytics-project)
 
-<ul>
-    <li>End-to-end data analytics workflow</li>
-    <li>Exploratory Data Analysis (EDA)</li>
-    <li>Vendor KPI computation and ranking</li>
-    <li>Data cleaning and transformation</li>
-    <li>Interactive Power BI dashboard</li>
-</ul>
+- 📊 **Final Power BI Dashboard**  
+  🔗 Dashboard Link (Coming Soon)
 
-<hr>
+- 📁 **GitHub Repository**  
+  👉 [Vendor Performance Data Analytics Project](https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Project)
+
+---
+
+## 🧠 Key Features
+
+- End-to-end data analytics workflow  
+- Exploratory Data Analysis (EDA)  
+- Vendor KPI computation and ranking  
+- Data cleaning and transformation  
+- Interactive Power BI dashboard  
+
+---
 
 <h2>🗂 Repository Structure</h2>
 
@@ -77,7 +60,6 @@ Vendor-Performance-Data-Analytics-Project/
 └── README.html
 </pre>
 
-<hr>
 
 <h2>📊 Dataset Description</h2>
 
@@ -105,7 +87,7 @@ git clone https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Proj
     </li>
     <li>Open notebooks using Jupyter Notebook or Google Colab</li>
     <li>Run cells sequentially to reproduce analysis</li>
-    <li>Open <code>dashboard.pbix</code> in Power BI Desktop for visualization</li>
+    <li>Open <code>dashboard.pbix</code> in Power BI Desktop</li>
 </ol>
 
 <hr>
@@ -114,22 +96,15 @@ git clone https://github.com/Haseeb-zai30/Vendor-Performance-Data-Analytics-Proj
 
 <ul>
     <li>Top vendors contribute a significant share of total revenue</li>
-    <li>Price inefficiencies identified across multiple vendors</li>
+    <li>Pricing inefficiencies identified across multiple vendors</li>
     <li>Inventory imbalance observed in low-performing segments</li>
 </ul>
-
-<p>
-These insights help decision-makers improve vendor selection, pricing strategy,
-and inventory management.
-</p>
 
 <hr>
 
 <h2>📸 Final Dashboard Preview</h2>
 
-<p><em>Replace the image path below with your actual dashboard screenshot.</em></p>
-
-<img src="dashboard_preview.png" alt="Final Power BI Dashboard" width="100%">
+<img src="dashboard.png" alt="Final Power BI Dashboard" width="100%">
 
 <hr>
 
@@ -147,19 +122,16 @@ and inventory management.
 
 <ul>
     <li>Predictive analytics for vendor performance forecasting</li>
-    <li>Dashboard deployment to Power BI Service</li>
-    <li>Web-based analytics dashboard (Streamlit / Flask)</li>
+    <li>Power BI Service deployment</li>
+    <li>Web-based dashboard (Streamlit / Flask)</li>
 </ul>
 
 <hr>
 
 <h2>🧑‍💻 Author</h2>
 
-<p>
-<strong>Muhammad Haseeb</strong><br>
-</p>
+<p><strong>Muhammad Haseeb</strong></p>
 
 <hr>
 
 </body>
-</html>
